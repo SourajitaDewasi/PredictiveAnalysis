@@ -1,2 +1,3 @@
 # Predictive Analysis
-1. KNN ALgorithm
+1. KNN Algorithm
+2. 

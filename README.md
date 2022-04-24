@@ -1,3 +1,4 @@
 # Predictive Analysis
 1. KNN Algorithm
-2. 
+2. Clustering Algorithm 
+3. 

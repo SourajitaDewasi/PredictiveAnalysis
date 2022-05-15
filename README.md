@@ -6,3 +6,5 @@
  b. </break> DBSCAN Algorithm
  c. </break>Agglomerative Clustering
 4. Ensemble Learning
+5. Decision Tree
+6. Random Forest
